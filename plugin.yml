@@ -1,0 +1,15 @@
+---
+name: ClientCrash
+version: 1.0.0
+main: BlackAngels56\ClientCrash\Main
+api: 4.0.0
+load: POSTWORLD
+author: BlackAngels56
+
+
+description: PLUGIN CREATED BY BLACKANGELS56
+
+permissions:
+  njk.clientcrash:
+    default: op
+...
